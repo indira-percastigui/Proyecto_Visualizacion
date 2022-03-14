@@ -1,0 +1,13 @@
+Proyecto 4.  Visualiación utilizando Tablaeu
+
+Objetivo: Presentar una visualización de los datos obtenidos del Secretariado Ejecutivo del Sitema Nacional de Seguridad Pública, en la cual vse tenía la información correspondiente a los delitos de reportados en México del año 2015-2020, a nivel estado y entidad y por tipo de bien jurídico afectado.  
+
+Desarrollo:
+
+1. Se realizó una limpieza de los datos para poder utilizarse en el análisis.
+2. Una vez limpios los datos se cargó la información al software Tablaeu para generar la visualización.
+3. Se presentó el número de delitos cometidos con base en el bien júridico afectado.
+4. Tambien se presentaron el porcentaje de cada tipo de delito cometido y los estados con mayor número de delitos cometidos, en función 
+del bien jurídico afectado.
+
+Link visualización : https://public.tableau.com/shared/23TMHHHCQ?:display_count=n&:origin=viz_share_link
